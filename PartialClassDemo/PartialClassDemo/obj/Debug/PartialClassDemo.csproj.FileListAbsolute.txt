@@ -1,0 +1,5 @@
+D:\source\visual-studio-projects\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe.config
+D:\source\visual-studio-projects\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe
+D:\source\visual-studio-projects\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.pdb
+D:\source\visual-studio-projects\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.exe
+D:\source\visual-studio-projects\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.pdb

@@ -1,0 +1,5 @@
+D:\source\visual-studio-projects\Inherit\Inherit\bin\Debug\Inherit.exe.config
+D:\source\visual-studio-projects\Inherit\Inherit\bin\Debug\Inherit.exe
+D:\source\visual-studio-projects\Inherit\Inherit\bin\Debug\Inherit.pdb
+D:\source\visual-studio-projects\Inherit\Inherit\obj\Debug\Inherit.exe
+D:\source\visual-studio-projects\Inherit\Inherit\obj\Debug\Inherit.pdb

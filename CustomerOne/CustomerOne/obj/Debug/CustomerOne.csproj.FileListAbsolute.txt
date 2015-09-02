@@ -1,0 +1,5 @@
+D:\source\visual-studio-projects\CustomerOne\CustomerOne\bin\Debug\CustomerOne.exe.config
+D:\source\visual-studio-projects\CustomerOne\CustomerOne\bin\Debug\CustomerOne.exe
+D:\source\visual-studio-projects\CustomerOne\CustomerOne\bin\Debug\CustomerOne.pdb
+D:\source\visual-studio-projects\CustomerOne\CustomerOne\obj\Debug\CustomerOne.exe
+D:\source\visual-studio-projects\CustomerOne\CustomerOne\obj\Debug\CustomerOne.pdb

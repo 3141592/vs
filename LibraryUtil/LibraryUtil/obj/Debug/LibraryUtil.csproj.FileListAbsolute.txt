@@ -1,0 +1,4 @@
+D:\source\visual-studio-projects\LibraryUtil\LibraryUtil\bin\Debug\LibraryUtil.dll
+D:\source\visual-studio-projects\LibraryUtil\LibraryUtil\bin\Debug\LibraryUtil.pdb
+D:\source\visual-studio-projects\LibraryUtil\LibraryUtil\obj\Debug\LibraryUtil.dll
+D:\source\visual-studio-projects\LibraryUtil\LibraryUtil\obj\Debug\LibraryUtil.pdb

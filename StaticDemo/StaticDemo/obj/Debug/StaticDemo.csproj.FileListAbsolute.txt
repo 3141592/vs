@@ -1,0 +1,5 @@
+D:\source\visual-studio-projects\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+D:\source\visual-studio-projects\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe
+D:\source\visual-studio-projects\StaticDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+D:\source\visual-studio-projects\StaticDemo\StaticDemo\obj\Debug\StaticDemo.exe
+D:\source\visual-studio-projects\StaticDemo\StaticDemo\obj\Debug\StaticDemo.pdb

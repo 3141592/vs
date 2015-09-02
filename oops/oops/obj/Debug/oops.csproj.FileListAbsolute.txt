@@ -1,0 +1,6 @@
+D:\source\visual-studio-projects\oops\oops\bin\Debug\oops.exe.config
+D:\source\visual-studio-projects\oops\oops\bin\Debug\oops.exe
+D:\source\visual-studio-projects\oops\oops\bin\Debug\oops.pdb
+D:\source\visual-studio-projects\oops\oops\obj\Debug\oops.csprojResolveAssemblyReference.cache
+D:\source\visual-studio-projects\oops\oops\obj\Debug\oops.exe
+D:\source\visual-studio-projects\oops\oops\obj\Debug\oops.pdb
