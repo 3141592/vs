@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inherit
+namespace Gunter.Roy.CSharpCorner.Oop
 {
   class Family
   {

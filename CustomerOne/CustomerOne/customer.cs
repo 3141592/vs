@@ -1,13 +1,14 @@
 ﻿using System;
-namespace CustomerOne
+
+namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class customer
+  class Customer
   {
     // Member Vars
     private static int x;
 
     // Constructor for static initializing fields
-    static customer()
+    static Customer()
     {
       Console.WriteLine("Starting static constructor");
       x = 10;   

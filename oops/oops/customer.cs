@@ -4,9 +4,9 @@
   using System.Text;
   using System.Threading.Tasks;
 
-  namespace oops
-  {
-    class customer
+  namespace Gunter.Roy.CSharpCorner.Oop
+{
+    class Customer
     {
     // Member Vars
     public int CustID;
@@ -14,14 +14,14 @@
     public string Address;
 
     // constructor
-    public customer()
+    public Customer()
     {
       CustID = 1001;
       Name = "Tom";
       Address = "USA";
     }
 
-    public customer(string fname, string lname)
+    public Customer(string fname, string lname)
     {
       Name = fname + " " + lname;
     }
@@ -31,7 +31,7 @@
       Console.WriteLine(Name);
     }
 
-    // display customer records
+    // display Customer records
     public void displayData()
     {
       Console.WriteLine("Customer: " + CustID);
@@ -43,7 +43,7 @@
     static void Main(string[] args)
     {
       // object instantiation
-      customer obj = new customer();
+      Customer obj = new Customer();
 
       // method calling
       obj.displayData();
@@ -53,7 +53,7 @@
       Console.WriteLine(obj.Name);
       Console.WriteLine(obj.Address);
 
-      customer obj2 = new customer("Barack", "Obama");
+      Customer obj2 = new Customer("Barack", "Obama");
       obj2.AppendData();
     }
   }

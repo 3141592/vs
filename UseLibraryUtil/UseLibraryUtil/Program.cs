@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LibraryUtil;
+using Gunter.Roy.CSharpCorner.Oop;
 
-namespace UseLibraryUtil
+namespace Gunter.Roy.CSharpCorner.Oop
 {
   class Program
   {

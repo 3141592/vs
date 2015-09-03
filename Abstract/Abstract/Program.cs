@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gunter.Roy.CSharpCorner.Oop
+namespace Abstract
 {
   class Program
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Starting Main()");
-      Customer.getData();
     }
   }
 }

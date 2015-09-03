@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class Program
+  class MyAbstract
   {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Starting Main()");
-      Customer.getData();
-    }
   }
 }

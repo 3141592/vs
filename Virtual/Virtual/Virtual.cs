@@ -4,22 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Virtual
+namespace Gunter.Roy.CSharpCorner.Oop
 {
-
-  class myBase
+  class MyBase
   {
     public virtual void VirtualMethod()
     {
-      Console.WriteLine("Virtual method defined in myBase");
+      Console.WriteLine("Virtual method defined in MyBase");
+    }
+
+    public void HideMe()
+    {
+      Console.WriteLine("MyBase Hide me");
     }
   }
 
-  class myDerived : myBase
+  class MyDerived : MyBase
   {
     public override void VirtualMethod()
     {
       Console.WriteLine("Virtual method defined in derived class");
+    }
+
+    public void HideMe()
+    {
+      Console.WriteLine("MyDerived Hide me");
     }
   }
 }

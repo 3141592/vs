@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StaticDemo
+namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class staticDemo
+  class MyStaticDemo
   {
     // static field
     static int x = 10, y;
@@ -21,7 +21,7 @@ namespace StaticDemo
     static void Main(string[] args)
     {
       // function calling directly
-      staticDemo.calculate();
+      MyStaticDemo.calculate();
     }
   }
 }
