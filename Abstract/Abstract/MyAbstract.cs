@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class MyAbstract
+  public abstract class MyAbstract
   {
+    public abstract void DisplayData();
+  }
+
+  public class Concrete : MyAbstract
+  {
+    public override void DisplayData()
+    {
+      Console.WriteLine("Abstract class method.");
+      Console.ReadKey();
+    }
   }
 }

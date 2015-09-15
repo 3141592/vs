@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class Program
+  public abstract class Employee
   {
-    static void Main(string[] args)
-    {
-      Concrete concreteKlass = new Concrete();
-      concreteKlass.DisplayData();
-    }
+    public abstract void LeaderName();
   }
 }

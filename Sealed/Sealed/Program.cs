@@ -10,8 +10,8 @@ namespace Gunter.Roy.CSharpCorner.Oop
   {
     static void Main(string[] args)
     {
-      Concrete concreteKlass = new Concrete();
-      concreteKlass.DisplayData();
+      Sealed SealedInstance = new Sealed();
+      SealedInstance.MyFunction();
     }
   }
 }

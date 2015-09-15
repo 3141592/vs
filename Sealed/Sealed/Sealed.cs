@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class Program
+  public sealed class Sealed
   {
-    static void Main(string[] args)
+    public void MyFunction()
     {
-      Concrete concreteKlass = new Concrete();
-      concreteKlass.DisplayData();
+      Console.WriteLine("In MyFunction");
+      Console.ReadKey();
     }
   }
 }

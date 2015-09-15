@@ -10,8 +10,11 @@ namespace Gunter.Roy.CSharpCorner.Oop
   {
     static void Main(string[] args)
     {
-      Concrete concreteKlass = new Concrete();
-      concreteKlass.DisplayData();
+            HRDepartment HRPerson = new HRDepartment();
+            ITDepartment ITPerson = new ITDepartment();
+
+            HRPerson.LeaderName();
+            ITPerson.LeaderName();
     }
   }
 }

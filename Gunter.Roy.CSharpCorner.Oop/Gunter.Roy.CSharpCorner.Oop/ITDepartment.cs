@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Gunter.Roy.CSharpCorner.Oop
 {
-  class Program
+  class ITDepartment : Employee
   {
-    static void Main(string[] args)
+    public override void LeaderName()
     {
-      Concrete concreteKlass = new Concrete();
-      concreteKlass.DisplayData();
+      Console.WriteLine("IT Department Leader");
+      Console.ReadKey();
     }
   }
 }

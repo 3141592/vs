@@ -1,0 +1,20 @@
+﻿-----------------------------------------------------------------
+Lundin Reference:
+-----------------------------------------------------------------
+
+The parser handles most mathematical operators and functions.
+
+Operators:
+
++, -, *, /, ^, %
+
+
+Functions:
+
+sqrt, sin, cos, tan, atan, acos, asin, 
+acotan, exp, ln, 10log, fac, sinh, cosh,
+tanh, abs, ceil, floor, sfac, round, fpart
+
+Logical:
+
+!, ==, !=, ||, &&, >, < , >=, <=, 
