@@ -55,18 +55,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BestBuyAPI.cs">
+    <Compile Include="BestBuyAPI.cs" />
+    <Compile Include="BestBuyAPIApp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BestBuyAPI.Designer.cs">
-      <DependentUpon>BestBuyAPI.cs</DependentUpon>
+    <Compile Include="BestBuyAPIApp.Designer.cs">
+      <DependentUpon>BestBuyAPIApp.cs</DependentUpon>
     </Compile>
     <Compile Include="Credential.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="BestBuyAPI.resx">
-      <DependentUpon>BestBuyAPI.cs</DependentUpon>
+    <EmbeddedResource Include="BestBuyAPIApp.resx">
+      <DependentUpon>BestBuyAPIApp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

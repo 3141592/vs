@@ -1,0 +1,3283 @@
+
+http://api.bestbuy.com/v1/products(search=laptop)?show=accessories.sku,color,condition,customerReviewAverage,customerReviewCount,customerTopRated,depth,description,details.name,details.value,digital,features.feature,format,frequentlyPurchasedWith.sku,height,includedItemList.includedItem,longDescription,longDescriptionHtml,manufacturer,modelNumber,name,preowned,quantityLimit,relatedProducts.sku,releaseDate,shortDescription,shortDescriptionHtml,sku,upc,warrantyLabor,warrantyParts,weight,width&format=json&apiKey=zrgqwxfmrk9mnggq6t3pberw
+
+accessories.sku,color,condition,customerReviewAverage,customerReviewCount,customerTopRated,depth,description,details.name,details.value,digital,features.feature,format,frequentlyPurchasedWith.sku,height,includedItemList.includedItem,longDescription,longDescriptionHtml,manufacturer,modelNumber,name,preowned,quantityLimit,relatedProducts.sku,releaseDate,shortDescription,shortDescriptionHtml,sku,upc,warrantyLabor,warrantyParts,weight,width
+
+
+{
+  "products": [
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "White",
+      "condition": "New",
+      "customerReviewAverage": null,
+      "customerReviewCount": null,
+      "customerTopRated": false,
+      "depth": "8 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "1 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "11.6 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N|Wireless-AC"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Other"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "2.16 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-ion"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1366 x 768 (HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "3-cell lithium-ion battery, AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "White"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "USB 3.0|USB 2.0|HDMI"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3220 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "2 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "No"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "32-bit"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "11.6\" active-matrix TFT-LCD\nComfyView technology. Typical 1366 x 768 resolution. LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor N2840\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "2GB system memory\nEnough high-bandwidth RAM to meet the system requirements and run basic programs, but not many at once."
+        },
+        {
+          "feature": "16GB flash memory\nThis ultracompact memory system is ideal for mobile devices and applications, providing enhanced storage capabilities, streamlined data management, quick boot-up times and support for high-definition video playback."
+        },
+        {
+          "feature": "Intel&#174; Graphics\nOn-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 2.65 lbs. and measures 0.73\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 3-cell lithium-ion battery."
+        },
+        {
+          "feature": "Bluetooth interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Next-Gen Intel&#174; Wireless-AC connectivity\nConnect to a Wireless-AC router for nearly 3x the speed, more capacity and wider coverage than Wireless-N. Backward-compatible with all other Wi-Fi networks and hotspots."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.73 inches",
+      "includedItemList": [
+        {
+          "includedItem": "11.6\" Chromebook - Intel Celeron - 2GB Memory"
+        },
+        {
+          "includedItem": "3-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: Work and play on the go with this lightweight 11.6\" Chromebook, which features built-in Wireless-AC for high-speed networking. You can connect to an external display via the HDMI output or your compatible devices via Bluetooth.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/com/pr/icn_ac_wifi.gif\" alt=\"AC Wi-Fi\" name=\"AC Wi-Fi\"></p><b>Acer Chromebook:</b> Work and play on the go with this lightweight 11.6\" Chromebook, which features built-in Wireless-AC for high-speed networking. You can connect to an external display via the HDMI output or your compatible devices via Bluetooth.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a><a href=\"http://images.bestbuy.com/BestBuy_US/en_US/images/global/on/VideoPopUp.html?widgetId=1020098358&accountId=1937&playerId=1696\" onclick=\"return popNew(this,660,380);\" title=\"Intel Wireless-AC\"><img src=\"http://images.bestbuy.com:80/BestBuy_US/en_US/images/global/buttons/btn-demo.gif\" alt=\"See Video\" name=\"&lid=ACWireless\"/></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "CB3111C6EQ",
+      "name": "Acer - 11.6\" Chromebook - Intel Celeron - 2GB Memory - 16GB Flash Memory - White",
+      "preowned": false,
+      "quantityLimit": null,
+      "relatedProducts": [
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 1249017
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 4278800
+        },
+        {
+          "sku": 4103018
+        },
+        {
+          "sku": 1114043
+        },
+        {
+          "sku": 7457047
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OSTechnical details: Intel&#174; Celeron&#174; processor; 11.6\" display; 2GB memory; 16GB flash memorySpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS</li><li>Technical details: Intel® Celeron® processor; 11.6\" display; 2GB memory; 16GB flash memory</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 7012041,
+      "upc": "887899901041",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "2.65 pounds",
+      "width": "11.8 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "Granite Gray",
+      "condition": "New",
+      "customerReviewAverage": null,
+      "customerReviewCount": null,
+      "customerTopRated": false,
+      "depth": "8 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "11.6 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "Intel HD"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad with multitouch gesture support"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Solid State Drive"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.4 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1366 x 768 (HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "EPEAT Level",
+          "value": "Silver"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "3-cell lithium-polymer battery, AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "Gray"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "USB 3.0|USB 2.0|HDMI"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3950 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "2 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "Yes"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "32-bit"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "11.6\" active-matrix TFT-LCD\nComfyView technology. Typical 1366 x 768 HD resolution. LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor 2955U\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "2GB system memory\nEnough high-bandwidth RAM to meet the system requirements and run basic programs, but not many at once."
+        },
+        {
+          "feature": "16GB solid state drive (SSD)\nWhile offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics\nOn-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 2.76 lbs. and measures 0.8\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 3-cell lithium-polymer battery."
+        },
+        {
+          "feature": "Bluetooth 4.0 + HS interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Wireless network connectivity\nBuilt-in high-speed wireless LAN connects to your network or hotspots on the most common Wi-Fi standards."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.8 inches",
+      "includedItemList": [
+        {
+          "includedItem": "11.6\" Chromebook - Intel Celeron - 2GB Memory"
+        },
+        {
+          "includedItem": "3-cell lithium-polymer battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: With built-in Wi-Fi and Chrome OS, this lightweight 11.6\" Chromebook makes it easy to stay connected and productive at home and on the go. The Bluetooth 4.0 + HS interface lets you wirelessly link with compatible devices.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<b>Acer Chromebook:</b> With built-in Wi-Fi and Chrome OS, this lightweight 11.6\" Chromebook makes it easy to stay connected and productive at home and on the go. The Bluetooth 4.0 + HS interface lets you wirelessly link with compatible devices.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "C7202103",
+      "name": "Acer - 11.6\" Chromebook - Intel Celeron - 2GB Memory - 16GB Solid State Drive - Granite Gray",
+      "preowned": false,
+      "quantityLimit": null,
+      "relatedProducts": [
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 1249017
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 7457047
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 7851003
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 1114043
+        },
+        {
+          "sku": 4103018
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OSTechnical details: Intel&#174; Celeron&#174; processor; 11.6\" display; 2GB memory; 16GB solid state driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS</li><li>Technical details: Intel® Celeron® processor; 11.6\" display; 2GB memory; 16GB solid state drive</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 4699045,
+      "upc": "887899398186",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "2.76 pounds",
+      "width": "11.3 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "Gray",
+      "condition": "New",
+      "customerReviewAverage": null,
+      "customerReviewCount": null,
+      "customerTopRated": false,
+      "depth": "8 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "11.6 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N|Wireless-AC"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "Intel HD"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Solid State Drive"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.5 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1366 x 768 (HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "EPEAT Level",
+          "value": "Silver"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "3-cell lithium-polymer battery, AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "Gray"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "USB 3.0|USB 2.0|HDMI"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3920 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "2 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "Yes"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "11.6\" active-matrix TFT-LCD\nComfyView technology. Typical 1366 x 768 resolution. LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor 3205U\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "2GB system memory\nEnough high-bandwidth RAM to meet the system requirements and run basic programs, but not many at once."
+        },
+        {
+          "feature": "16GB solid state drive (SSD)\nWhile offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics\nOn-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 2.87 lbs. and measures 0.79\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 3-cell lithium-polymer battery."
+        },
+        {
+          "feature": "Bluetooth interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Next-Gen Intel&#174; Wireless-AC connectivity\nConnect to a Wireless-AC router for nearly 3x the speed, more capacity and wider coverage than Wireless-N. Backward-compatible with all other Wi-Fi networks and hotspots."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.79 inches",
+      "includedItemList": [
+        {
+          "includedItem": "11.6\" Chromebook - Intel Celeron - 2GB Memory"
+        },
+        {
+          "includedItem": "3-cell lithium-polymer battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: With a lightweight design that's easy to take on the go, this 11.6\" Chromebook makes it easy to stay connected and productive, wherever you are. Built-in Wireless-AC LAN enables fast Web access.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/com/pr/icn_ac_wifi.gif\" alt=\"AC Wi-Fi\" name=\"AC Wi-Fi\"></p><b>Acer Chromebook:</b> With a lightweight design that's easy to take on the go, this 11.6\" Chromebook makes it easy to stay connected and productive, wherever you are. Built-in Wireless-AC LAN enables fast Web access.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a><a href=\"http://images.bestbuy.com/BestBuy_US/en_US/images/global/on/VideoPopUp.html?widgetId=1020098358&accountId=1937&playerId=1696\" onclick=\"return popNew(this,660,380);\" title=\"Intel Wireless-AC\"><img src=\"http://images.bestbuy.com:80/BestBuy_US/en_US/images/global/buttons/btn-demo.gif\" alt=\"See Video\" name=\"&lid=ACWireless\"/></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "C740C3P1",
+      "name": "Acer - 11.6\" Chromebook - Intel Celeron - 2GB Memory - 16GB Solid State Drive - Gray",
+      "preowned": false,
+      "quantityLimit": null,
+      "relatedProducts": [
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 1249017
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 7457047
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 1114043
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 7851003
+        },
+        {
+          "sku": 4103018
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OSTechnical details: Intel&#174; Celeron&#174; processor; 11.6\" display; 2GB memory; 16GB solid state driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS</li><li>Technical details: Intel® Celeron® processor; 11.6\" display; 2GB memory; 16GB solid state drive</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 4799026,
+      "upc": "887899773884",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "2.87 pounds",
+      "width": "11.3 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "Gray",
+      "condition": "New",
+      "customerReviewAverage": "5.0",
+      "customerReviewCount": 2,
+      "customerTopRated": false,
+      "depth": "8 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "11.6 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N|Wireless-AC"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "Intel HD"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Solid State Drive"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.5 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1366 x 768 (HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "EPEAT Level",
+          "value": "Silver"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "3-cell lithium-polymer battery, AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "Gray"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "USB 3.0|USB 2.0|HDMI"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3920 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "4 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "Yes"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "11.6\" active-matrix TFT-LCD\nComfyView technology. Typical 1366 x 768 resolution. LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor 3205U\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "4GB system memory for basic multitasking\nAdequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once."
+        },
+        {
+          "feature": "16GB solid state drive (SSD)\nWhile offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics\nOn-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 2.87 lbs. and measures 0.79\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 3-cell lithium-polymer battery."
+        },
+        {
+          "feature": "Bluetooth interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Next-Gen Intel&#174; Wireless-AC connectivity\nConnect to a Wireless-AC router for nearly 3x the speed, more capacity and wider coverage than Wireless-N. Backward-compatible with all other Wi-Fi networks and hotspots."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.79 inches",
+      "includedItemList": [
+        {
+          "includedItem": "11.6\" Chromebook - Intel Celeron - 4GB Memory"
+        },
+        {
+          "includedItem": "3-cell lithium-polymer battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: Stay productive and entertained whether you're at home or on the go with this 11.6\" Chromebook, which features built-in Wireless-AC networking for rapid Web access. Easily connect a display via HDMI to enjoy enlarged content.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/com/pr/icn_ac_wifi.gif\" alt=\"AC Wi-Fi\" name=\"AC Wi-Fi\"></p><b>Acer Chromebook:</b> Stay productive and entertained whether you're at home or on the go with this 11.6\" Chromebook, which features built-in Wireless-AC networking for rapid Web access. Easily connect a display via HDMI to enjoy enlarged content.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a><a href=\"http://images.bestbuy.com/BestBuy_US/en_US/images/global/on/VideoPopUp.html?widgetId=1020098358&accountId=1937&playerId=1696\" onclick=\"return popNew(this,660,380);\" title=\"Intel Wireless-AC\"><img src=\"http://images.bestbuy.com:80/BestBuy_US/en_US/images/global/buttons/btn-demo.gif\" alt=\"See Video\" name=\"&lid=ACWireless\"/></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "C740C4PE",
+      "name": "Acer - 11.6\" Chromebook - Intel Celeron - 4GB Memory - 16GB Solid State Drive - Gray",
+      "preowned": false,
+      "quantityLimit": null,
+      "relatedProducts": [
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 1249017
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 7851003
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 4103018
+        },
+        {
+          "sku": 7457047
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 1114043
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OSTechnical details: Intel&#174; Celeron&#174; processor; 11.6\" display; 4GB memory; 16GB solid state driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS</li><li>Technical details: Intel® Celeron® processor; 11.6\" display; 4GB memory; 16GB solid state drive</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 4020462,
+      "upc": "887899773891",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "2.87 pounds",
+      "width": "11.3 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "Gray",
+      "condition": "New",
+      "customerReviewAverage": null,
+      "customerReviewCount": null,
+      "customerTopRated": false,
+      "depth": "8 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "11.6 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "Intel HD"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Multitouch gesture"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Solid State Drive"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.4 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1366 x 768 (HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "3-cell lithium-ion battery (3950 mAh), AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "Gray"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "HDMI|USB 2.0|USB 3.0|Audio out"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel HD"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3950 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "4 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "No"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "32-bit"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "11.6\" display\nComfyView screen presents videos, photos and more in crisp detail. Typical 1366 x 768 resolution. Energy-efficient LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor 2955U\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "4GB system memory for basic multitasking\nAdequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once."
+        },
+        {
+          "feature": "16GB solid state drive (SSD)\nWhile offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics\nOn-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 2.76 lbs. and measures 0.8\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 3-cell lithium-polymer battery."
+        },
+        {
+          "feature": "Bluetooth 4.0 + HS interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Dual-band wireless network connectivity\nBuilt-in high-speed wireless LAN connects to your network or hotspots on all current Wi-Fi standards."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Built-in virus protection and Google products\nWork, play and do right out of the box with Search, Gmail, Talk, YouTube and Hangouts, then personalize with the Chrome Web Store. Multiple layers of protection defend against viruses and malware."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.8 inches",
+      "includedItemList": [
+        {
+          "includedItem": "11.6\" Chromebook - Intel Celeron - 4GB Memory"
+        },
+        {
+          "includedItem": "3-cell lithium-ion battery (3950 mAh)"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: This slim, lightweight laptop is perfect for anyone who needs to stay productive and connected on the go. Access the Web with built-in Wi-Fi, and stream content to compatible Bluetooth-enabled devices.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<b>Acer Chromebook:</b> This slim, lightweight laptop is perfect for anyone who needs to stay productive and connected on the go. Access the Web with built-in Wi-Fi, and stream content to compatible Bluetooth-enabled devices.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "C7202844",
+      "name": "Acer - 11.6\" Chromebook - Intel Celeron - 4GB Memory - 16GB Solid State Drive - Gray",
+      "preowned": false,
+      "quantityLimit": 3,
+      "relatedProducts": [
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 7851003
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 7457047
+        },
+        {
+          "sku": 1249017
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 4103018
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 4278800
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OS 32-bitTechnical details: Intel&#174; Celeron&#174; processor; 11.6\" display; 4GB memory; 16GB solid state driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS 32-bit</li><li>Technical details: Intel® Celeron® processor; 11.6\" display; 4GB memory; 16GB solid state drive</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 5875054,
+      "upc": "887899297403",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "2.76 pounds",
+      "width": "11.3 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 6987389
+        },
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 4896077
+        },
+        {
+          "sku": 2577677
+        },
+        {
+          "sku": 9071056
+        }
+      ],
+      "color": "Moonstone White",
+      "condition": "New",
+      "customerReviewAverage": "4.5",
+      "customerReviewCount": 196,
+      "customerTopRated": true,
+      "depth": "8 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Graphics Card",
+          "value": "Intel&#174; HD"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Screen Size",
+          "value": "11.6 inches"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Ethernet",
+          "value": "None"
+        },
+        {
+          "name": "Color Category",
+          "value": "White"
+        },
+        {
+          "name": "Battery Life",
+          "value": "7.5 hours"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "32 gigabytes"
+        },
+        {
+          "name": "System Memory RAM Expandable To",
+          "value": "0 gigabytes"
+        },
+        {
+          "name": "Number Of Memory Slots",
+          "value": "1"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Number Of VGA Ports",
+          "value": "0"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "3.5mm audio|HDMI|USB"
+        },
+        {
+          "name": "Embedded Mobile Broadband",
+          "value": "None"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "2 gigabytes"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.4 gigahertz"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of DisplayPort Outputs",
+          "value": "0"
+        },
+        {
+          "name": "Number Of Auxiliary Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Display Type",
+          "value": "Touchscreen LCD"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Other"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "64-bit"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "Yes"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "11.6\" 10-point multitouch screen\nCapacitive display responds to finger touches instead of pressure, recognizing a light swipe but not a standard stylus. 1366 x 768 HD resolution. LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor 2955U\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "2GB system memory\nEnough high-bandwidth RAM to meet the system requirements and run basic programs, but not many at once."
+        },
+        {
+          "feature": "32GB solid state drive (SSD)\nWhile offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery."
+        },
+        {
+          "feature": "Built-in cloud support\nEasily save your files to your Google Drive account for secure access wherever you go. You can also sync with your other devices running Chrome and even work offline when needed. Fees may apply."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics\nOn-processor graphics with 128MB dedicated video memory provide everyday image quality for Internet use, video streaming and casual gaming."
+        },
+        {
+          "feature": "Weighs 3 lbs. and measures 0.75\" thin\nUltraportable design, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 3-cell lithium-polymer battery."
+        },
+        {
+          "feature": "Bluetooth 4.0 interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up 2 screens side by side or just see more of the big picture. HDCP support."
+        },
+        {
+          "feature": "Dual-band wireless network connectivity\nBuilt-in high-speed wireless LAN connects to your network or hotspots on all current Wi-Fi standards."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to spend time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in HD webcam\nMakes it easy to video chat with family and friends or teleconference with colleagues over Google Hangouts. 720p resolution."
+        },
+        {
+          "feature": "Chrome OS keyboard\nHandy 1-touch function keys. Fully clickable touchpad with click-anywhere functionality and support for 1-finger left click, 2-finger right click, and 2-finger scrolling."
+        },
+        {
+          "feature": "Built-in virus protection and Google products\nWork, play and do right out of the box with Search, Gmail, Talk, YouTube and Hangouts, then personalize with the Chrome Web Store. Multiple layers of protection defend against viruses and malware."
+        },
+        {
+          "feature": "Additional ports\nMicrophone-in/headphone-out combo jack."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.8 inches",
+      "includedItemList": [
+        {
+          "includedItem": "Acer 11.6\" Touch-Screen Chromebook - Intel Celeron - 2GB Memory - 32GB Solid State Drive"
+        },
+        {
+          "includedItem": "3-cell lithium-polymer battery"
+        },
+        {
+          "includedItem": "AC power adapter, AC power cord"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer C720P-2661 Chromebook: Navigate your favorite websites with a slide, tap and touch of your finger. You can easily take it wherever you go, and find new places to relax and watch your favorite TV shows or movies.   Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2012/com/pcon/icn_touch_screen.gif\" width=\"100\" height=\"63\" border=\"0\" alt=\"Touch screen\"></p><b>Acer C720P-2661 Chromebook:</b> Navigate your favorite websites with a slide, tap and touch of your finger. You can easily take it wherever you go, and find new places to relax and watch your favorite TV shows or movies. <br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a> <br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "C720P-2661",
+      "name": "Acer - 11.6\" Touch-Screen Chromebook - Intel Celeron - 2GB Memory - 32GB Solid State Drive - Moonstone White",
+      "preowned": false,
+      "quantityLimit": 3,
+      "relatedProducts": [
+        {
+          "sku": 8610161
+        },
+        {
+          "sku": 7513036
+        },
+        {
+          "sku": 8851622
+        },
+        {
+          "sku": 8603277
+        },
+        {
+          "sku": 8697018
+        },
+        {
+          "sku": 6685593
+        },
+        {
+          "sku": 8827017
+        },
+        {
+          "sku": 3516084
+        },
+        {
+          "sku": 6947008
+        },
+        {
+          "sku": 6947044
+        },
+        {
+          "sku": 6947062
+        },
+        {
+          "sku": 6947035
+        },
+        {
+          "sku": 6947099
+        },
+        {
+          "sku": 6947017
+        },
+        {
+          "sku": 6947104
+        },
+        {
+          "sku": 7162141
+        },
+        {
+          "sku": 6947026
+        },
+        {
+          "sku": 6947053
+        },
+        {
+          "sku": 6947071
+        }
+      ],
+      "releaseDate": "2014-03-01",
+      "shortDescription": "128MB dedicated graphicsChrome OS 64-bitTechnical details: Intel&#174; Celeron&#174; processor; 11.6\" display; 2GB memory; 32GB solid state driveNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>128MB dedicated graphics</li><li>Chrome OS 64-bit</li><li>Technical details: Intel® Celeron® processor; 11.6\" display; 2GB memory; 32GB solid state drive</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 4591017,
+      "upc": "887899424120",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "3 pounds",
+      "width": "11.3 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 6987389
+        },
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 4896077
+        },
+        {
+          "sku": 2577677
+        },
+        {
+          "sku": 9071056
+        }
+      ],
+      "color": "Moonstone White",
+      "condition": "New",
+      "customerReviewAverage": "4.0",
+      "customerReviewCount": 13,
+      "customerTopRated": false,
+      "depth": "9 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Screen Size",
+          "value": "13.3 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-AC"
+        },
+        {
+          "name": "Number Of DVI Ports",
+          "value": "0"
+        },
+        {
+          "name": "Ethernet",
+          "value": "None"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "NVIDIA Kepler"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Multigesture touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Other"
+        },
+        {
+          "name": "Number Of DisplayPort Outputs",
+          "value": "0"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "2.1 gigahertz"
+        },
+        {
+          "name": "Embedded Mobile Broadband",
+          "value": "None"
+        },
+        {
+          "name": "System Memory RAM Expandable To",
+          "value": "0 gigabytes"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-ion"
+        },
+        {
+          "name": "Display Type",
+          "value": "LCD"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "White"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "NVIDIA"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Number Of VGA Ports",
+          "value": "0"
+        },
+        {
+          "name": "Processor Model",
+          "value": "NVIDIA Tegra K1"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "HDMI|USB"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "NVIDIA"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3220 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "2 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "No"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "64-bit"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "13.3\" Full HD display\n1920 x 1080 resolution showcases your games and HD movies with impressive color and clarity. Energy-efficient LED backlight."
+        },
+        {
+          "feature": "NVIDIA Tegra K1 CD570M-A1 mobile processor\nFour performance cores act independently and only when needed, enabling multitasking, smooth Web browsing and HD video capabilities without undue draw on the battery."
+        },
+        {
+          "feature": "2GB system memory\nEnough high-bandwidth RAM to meet the system requirements and run basic programs, but not many at once."
+        },
+        {
+          "feature": "16GB eMMC flash memory\nThis ultracompact memory system is ideal for mobile devices and applications, providing enhanced storage capabilities and quick boot-up times."
+        },
+        {
+          "feature": "Built-in cloud support\nEasily save your files to your Google Drive account for secure access wherever you go. You can also sync with your other devices running Chrome and even work offline when needed. Fees may apply."
+        },
+        {
+          "feature": "NVIDIA Kepler graphics\nIntegrated graphics chipset with shared video memory provides solid image quality for Internet use, movies, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 3.3 lbs. and measures 0.7\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 4-cell lithium-ion battery."
+        },
+        {
+          "feature": "Bluetooth 4.0 interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the Chromebook and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "2 USB 3.0 ports maximize the latest high-speed devices\nAlso includes 2 USB 2.0 ports to connect more accessories and peripherals. The USB 3.0 ports are backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up 2 screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports Secure Digital memory card format."
+        },
+        {
+          "feature": "Next-generation wireless connectivity\nConnects to your network or hotspot on all current Wi-Fi standards. Connect to a Wireless-AC router for speed nearly 3x faster than Wireless-N."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Google Hangouts."
+        },
+        {
+          "feature": "Chrome OS keyboard\nHandy one-touch function keys. Fully clickable touchpad with click-anywhere functionality and support for 1-finger left click, 2-finger right click, and 2-finger scrolling."
+        },
+        {
+          "feature": "Built-in virus protection and Google products\nWork, play and do right out of the box with Search, Gmail, Talk, YouTube and Hangouts, then personalize with the Chrome Web Store. Multiple layers of protection defend against viruses and malware."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.7 inches",
+      "includedItemList": [
+        {
+          "includedItem": "13.3\" Chromebook - NVIDIA Tegra K1"
+        },
+        {
+          "includedItem": "4-cell lithium-ion battery (3220 mAh)"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer CB5-311-T9B0 Chromebook: An alternative to traditional laptops, this Chromebook offers quick, portable connectivity for those on the go. Use the streamlined cloud access, speedy wireless capability or the multiple USB ports for rapid file transfers.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/com/pr/icn_ac_wifi.gif\" alt=\"AC Wi-Fi\" name=\"AC Wi-Fi\"></p><b>Acer CB5-311-T9B0 Chromebook:</b> An alternative to traditional laptops, this Chromebook offers quick, portable connectivity for those on the go. Use the streamlined cloud access, speedy wireless capability or the multiple USB ports for rapid file transfers.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "CB5-311-T9B0",
+      "name": "Acer - 13.3\" Chromebook - NVIDIA Tegra K1 - 2GB Memory - 16GB Solid State Drive - Moonstone White",
+      "preowned": false,
+      "quantityLimit": 3,
+      "relatedProducts": [
+        {
+          "sku": 8827017
+        },
+        {
+          "sku": 8697018
+        },
+        {
+          "sku": 7513036
+        },
+        {
+          "sku": 8610161
+        },
+        {
+          "sku": 4591017
+        },
+        {
+          "sku": 8851622
+        },
+        {
+          "sku": 6685593
+        },
+        {
+          "sku": 6947008
+        },
+        {
+          "sku": 6947044
+        },
+        {
+          "sku": 6947062
+        },
+        {
+          "sku": 3516084
+        },
+        {
+          "sku": 6947035
+        },
+        {
+          "sku": 6947099
+        },
+        {
+          "sku": 6947017
+        },
+        {
+          "sku": 6947104
+        },
+        {
+          "sku": 6947053
+        },
+        {
+          "sku": 6947071
+        },
+        {
+          "sku": 6947026
+        },
+        {
+          "sku": 7162141
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OS 64-bitTechnical details: NVIDIA Tegra K1 processor; 13.3\" display; 2GB memory; 16GB solid state driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS 64-bit</li><li>Technical details: NVIDIA Tegra K1 processor; 13.3\" display; 2GB memory; 16GB solid state drive</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 8603277,
+      "upc": "887899794414",
+      "warrantyLabor": "Not Available",
+      "warrantyParts": "1 year limited",
+      "weight": "3.3 pounds",
+      "width": "12.9 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "White",
+      "condition": "New",
+      "customerReviewAverage": "4.0",
+      "customerReviewCount": 1,
+      "customerTopRated": false,
+      "depth": "9 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "13.3 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "32 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-AC"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Other"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "2.1 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-ion"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1920 x 1080 (Full HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "EPEAT Level",
+          "value": "Silver"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "4-cell lithium-ion battery, AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "White"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "NVIDIA"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "NVIDIA Tegra K1"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "USB 3.0|HDMI"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "NVIDIA"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3220 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "4 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "Yes"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "32-bit"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "13.3\" active-matrix TFT-LCD\nComfyView technology. 1920 x 1080 resolution boasts impressive color and clarity. LED backlight."
+        },
+        {
+          "feature": "NVIDIA Tegra K1 processor\nFour performance cores enable multitasking, smooth Web browsing and HD video capabilities."
+        },
+        {
+          "feature": "4GB system memory for basic multitasking\nAdequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once."
+        },
+        {
+          "feature": "32GB flash memory\nThis ultracompact memory system is ideal for mobile devices and applications, providing enhanced storage capabilities, streamlined data management, quick boot-up times and support for high-definition video playback."
+        },
+        {
+          "feature": "NVIDIA graphics\nDriven by shared video memory provide solid image quality for Internet use, movies, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 3.31 lbs. and measures 0.71\" thin\nUltrathin and ultralight for maximum portability, featuring a smaller screen size and omitting the DVD/CD drive to achieve the compact form factor. 4-cell lithium-ion battery."
+        },
+        {
+          "feature": "Bluetooth interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "2 USB 3.0 ports maximize the latest high-speed devices\nUSB 3.0 ports are backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Next-generation wireless connectivity\nConnects to your network or hotspots on all current Wi-Fi standards. Connect to a Wireless-AC router for speed nearly 3x faster than Wireless-N."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.71 inches",
+      "includedItemList": [
+        {
+          "includedItem": "13.3\" Chromebook - NVIDIA Tegra K1 - 4GB Memory"
+        },
+        {
+          "includedItem": "4-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: Take work and entertainment on the go with this lightweight Chromebook, which features Wireless-AC networking and Chrome OS to help you stay connected. The 13.3\" display presents media in realistic 1920 x 1080 resolution.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<b>Acer Chromebook:</b> Take work and entertainment on the go with this lightweight Chromebook, which features Wireless-AC networking and Chrome OS to help you stay connected. The 13.3\" display presents media in realistic 1920 x 1080 resolution.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "CB5311T677",
+      "name": "Acer - 13.3\" Chromebook - NVIDIA Tegra K1 - 4GB Memory - 32GB Flash Memory - White",
+      "preowned": false,
+      "quantityLimit": 3,
+      "relatedProducts": [
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 1114043
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 9240075
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 4278800
+        },
+        {
+          "sku": 7457047
+        },
+        {
+          "sku": 7851003
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OSTechnical details: NVIDIA Tegra K1 processor; 13.3\" display; 4GB memory; 32GB flash memorySpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS</li><li>Technical details: NVIDIA Tegra K1 processor; 13.3\" display; 4GB memory; 32GB flash memory</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 1249017,
+      "upc": "887899758775",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "3.31 pounds",
+      "width": "12.9 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "Silver",
+      "condition": "New",
+      "customerReviewAverage": "4.5",
+      "customerReviewCount": 2,
+      "customerTopRated": false,
+      "depth": "9.6 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "3 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "14 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "520 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N"
+        },
+        {
+          "name": "Ethernet",
+          "value": "Built-in Gigabit Ethernet LAN"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "Intel HD Graphics 4000"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "SATA + Solid State Drive"
+        },
+        {
+          "name": "Number Of DisplayPort Outputs",
+          "value": "0"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.8 gigahertz"
+        },
+        {
+          "name": "Embedded Mobile Broadband",
+          "value": "None"
+        },
+        {
+          "name": "System Memory RAM Expandable To",
+          "value": "0 gigabytes"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3 SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Display Type",
+          "value": "Touchscreen LED"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "Silver"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "Yes"
+        },
+        {
+          "name": "Operating System",
+          "value": "Windows 8"
+        },
+        {
+          "name": "Number Of VGA Ports",
+          "value": "0"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel 3rd Generation Core i5"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "Ethernet|HDMI|USB"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "6 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "Number Of Ethernet Ports",
+          "value": "1"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "No"
+        },
+        {
+          "name": "Hard Drive RPM",
+          "value": "5400 revolutions per minute"
+        },
+        {
+          "name": "Operating System Architecture",
+          "value": "64-bit"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "DVD+RW|DVD-RW|CD-RW"
+        },
+        {
+          "name": "Provider_Product_ID",
+          "value": "1026618635"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Included Software",
+          "value": "Windows Desktop Apps:Content:Netflix shortcutMicrosoft Office trialEntertainment / Games:Acer Games powered by WildTangentMyET"
+        },
+        {
+          "name": "Number Of Memory Slots",
+          "value": "1"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "4850 milliampere hours"
+        },
+        {
+          "name": "Ultrabook",
+          "value": "Yes"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "Microsoft Windows 8 operating system preinstalled\nUpgrade to Windows 10 for free** - it's easy. Learn more about Windows 10 &#8250;"
+        },
+        {
+          "feature": "3rd Gen Intel&#174; Core&#8482; i5-3337U processor\nFeatures a 3MB cache and 1.8GHz processor speed with Turbo Boost up to 2.7GHz."
+        },
+        {
+          "feature": "Intel&#174; Core&#8482; i5 processor\nFeatures smart 4-way processing performance with a speed boost."
+        },
+        {
+          "feature": "Intel&#174; Turbo Boost Technology\nDelivers extra performance when you need it and increased energy efficiency when you don't. Intel&#174; HD graphics provide extra graphics power for your laptop when you need it."
+        },
+        {
+          "feature": "6GB DDR3 SDRAM\nFor multitasking power."
+        },
+        {
+          "feature": "Multiformat DVD&#177;RW/CD-RW drive with DVD-RAM support\nLets you burn your digital media onto DVD and CD format."
+        },
+        {
+          "feature": "14\" LED-backlit active-matrix TFT-LCD high-definition widescreen multitouch display\nWith 1366 x 768 resolution simplifies navigation and clearly presents media."
+        },
+        {
+          "feature": "500GB Serial ATA hard drive (5400 rpm)\nAlong with a 20GB solid state drive offers plenty of room to store pictures, videos, music and other important files."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics 4000\nFeature shared video memory for lush images. An HDMI output enables flexible connectivity."
+        },
+        {
+          "feature": "Built-in webcam and microphone\nMake it easy to video chat with family and friends."
+        },
+        {
+          "feature": "Media reader\nSupports Secure Digital format."
+        },
+        {
+          "feature": "2 USB 3.0 ports\nFor fast digital video, audio and data transfer."
+        },
+        {
+          "feature": "Built-in high-speed Acer Nplify wireless LAN (802.11a/b/g/n)\nAllows you to connect to the Internet without wires."
+        },
+        {
+          "feature": "Bluetooth 4.0 + HS interface\nLets you link with other Bluetooth-enabled devices, such as a cell phone or MP3 player."
+        },
+        {
+          "feature": "Built-in Gigabit Ethernet LAN\nWith RJ-45 connector for quick and simple wired Web access."
+        },
+        {
+          "feature": "Weighs 4.6 lbs. and measures just 0.9\" thin\nFor easy portability."
+        },
+        {
+          "feature": "Software package included\nWith a 1-month trial of Microsoft Office 365."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Centrino, Core, Viiv, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        },
+        {
+          "feature": "**Offer valid for qualified Windows devices for one year after Windows 10 upgrade availability. Windows 10 features vary by device. See www.windows.com/windows10specs for details"
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.9 inches",
+      "includedItemList": [
+        {
+          "includedItem": "Acer 14\" Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 500GB HDD + 20GB Solid State Drive"
+        },
+        {
+          "includedItem": "3-cell lithium-polymer battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "This Acer Aspire M5481PT6819 laptop's 14\" LED-backlit multitouch display makes it easy to navigate features and showcases visuals in sharp high-definition. A built-in wireless LAN lets you access Web-based media and other Internet content.",
+      "longDescriptionHtml": "This Acer Aspire M5481PT6819 laptop's 14\" LED-backlit multitouch display makes it easy to navigate features and showcases visuals in sharp high-definition. A built-in wireless LAN lets you access Web-based media and other Internet content.<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2012/com/pcon/icn_touch_screen.gif\" width=\"100\" height=\"63\" border=\"0\" alt=\"Touch screen\"></p><BR><BR><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "M5481PT6819",
+      "name": "Acer - 14\" Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 500GB HDD + 20GB Solid State Drive - Silver",
+      "preowned": false,
+      "quantityLimit": 3,
+      "relatedProducts": [
+        {
+          "sku": 5009277
+        },
+        {
+          "sku": 5009222
+        },
+        {
+          "sku": 7683076
+        },
+        {
+          "sku": 2990013
+        },
+        {
+          "sku": 3297045
+        },
+        {
+          "sku": 5009204
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 2678045
+        },
+        {
+          "sku": 9762163
+        },
+        {
+          "sku": 4928044
+        },
+        {
+          "sku": 5009327
+        },
+        {
+          "sku": 6128128
+        },
+        {
+          "sku": 9463225
+        },
+        {
+          "sku": 7086006
+        },
+        {
+          "sku": 9762127
+        },
+        {
+          "sku": 1647088
+        },
+        {
+          "sku": 3463056
+        },
+        {
+          "sku": 5829015
+        },
+        {
+          "sku": 9641007
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Windows 8, upgrade to Windows 10 for freeTechnical details: 3rd Gen Intel&#174; Core&#8482; i5 processor; 14\" display; 6GB memory; 500GB hard drive; 20GB solid state driveSpecial features: Bluetooth; touch screen; HDMI output",
+      "shortDescriptionHtml": "<li>Windows 8, upgrade to Windows 10 for free</li><li>Technical details: 3rd Gen Intel® Core™ i5 processor; 14\" display; 6GB memory; 500GB hard drive; 20GB solid state drive</li><li>Special features: Bluetooth; touch screen; HDMI output</li>",
+      "sku": 5009309,
+      "upc": "887899447044",
+      "warrantyLabor": "1 year",
+      "warrantyParts": "1 year",
+      "weight": "4.6 pounds",
+      "width": "13.4 inches"
+    },
+    {
+      "accessories": [
+        {
+          "sku": 5058004
+        },
+        {
+          "sku": 9928441
+        },
+        {
+          "sku": 4896095
+        },
+        {
+          "sku": 1491822
+        },
+        {
+          "sku": 3138005
+        },
+        {
+          "sku": 7016127
+        }
+      ],
+      "color": "Black",
+      "condition": "New",
+      "customerReviewAverage": null,
+      "customerReviewCount": null,
+      "customerTopRated": false,
+      "depth": "10.1 inches",
+      "description": null,
+      "details": [
+        {
+          "name": "Cache Memory",
+          "value": "2 megabytes"
+        },
+        {
+          "name": "Screen Size",
+          "value": "15.6 inches"
+        },
+        {
+          "name": "Hard Drive Capacity",
+          "value": "16 gigabytes"
+        },
+        {
+          "name": "Wireless Networking",
+          "value": "Wireless-A|Wireless-B|Wireless-G|Wireless-N|Wireless-AC"
+        },
+        {
+          "name": "Number Of HDMI Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Graphics Card",
+          "value": "Intel HD"
+        },
+        {
+          "name": "Touchpad Type",
+          "value": "Touchpad"
+        },
+        {
+          "name": "Hard Drive Type",
+          "value": "Solid State Drive"
+        },
+        {
+          "name": "Graphics Type",
+          "value": "Integrated"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "1.5 gigahertz"
+        },
+        {
+          "name": "Speaker Type",
+          "value": "Built-in"
+        },
+        {
+          "name": "Video Memory Type",
+          "value": "Shared"
+        },
+        {
+          "name": "Type of Memory (RAM)",
+          "value": "DDR3L SDRAM"
+        },
+        {
+          "name": "Built-In Webcam",
+          "value": "Yes"
+        },
+        {
+          "name": "Battery Type",
+          "value": "Lithium-polymer"
+        },
+        {
+          "name": "Display Type",
+          "value": "LED-LCD"
+        },
+        {
+          "name": "Screen Resolution",
+          "value": "1366 x 768 (HD)"
+        },
+        {
+          "name": "Bluetooth Enabled",
+          "value": "Yes"
+        },
+        {
+          "name": "Blu-Ray Player",
+          "value": "No"
+        },
+        {
+          "name": "NFC Enabled",
+          "value": "No"
+        },
+        {
+          "name": "EPEAT Level",
+          "value": "Silver"
+        },
+        {
+          "name": "Additional Accessories Included",
+          "value": "4-cell lithium-polymer battery, AC adapter"
+        },
+        {
+          "name": "Media Card Reader",
+          "value": "Yes"
+        },
+        {
+          "name": "Color Category",
+          "value": "Black"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "Intel"
+        },
+        {
+          "name": "Touch Screen",
+          "value": "No"
+        },
+        {
+          "name": "Operating System",
+          "value": "Chrome OS"
+        },
+        {
+          "name": "Processor Model",
+          "value": "Intel Celeron"
+        },
+        {
+          "name": "Port Type(s)",
+          "value": "USB 3.0|USB 2.0|HDMI"
+        },
+        {
+          "name": "Graphics Processing Unit/GPU",
+          "value": "Intel"
+        },
+        {
+          "name": "Battery Capacity",
+          "value": "3270 milliampere hours"
+        },
+        {
+          "name": "System Memory (RAM)",
+          "value": "4 gigabytes"
+        },
+        {
+          "name": "ENERGY STAR Certified",
+          "value": "No"
+        },
+        {
+          "name": "Number Of USB Port(s)",
+          "value": "2"
+        },
+        {
+          "name": "EPEAT Qualified",
+          "value": "Yes"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "None"
+        },
+        {
+          "name": "pricematch",
+          "value": "yes"
+        }
+      ],
+      "digital": false,
+      "features": [
+        {
+          "feature": "15.6\" active-matrix TFT-LCD\nComfyView technology. Typical 1366 x 768 resolution. LED backlight."
+        },
+        {
+          "feature": "Intel&#174; Celeron&#174; processor 3205U\nEntry-level dual-core processor for general e-mail, Internet and productivity tasks."
+        },
+        {
+          "feature": "4GB system memory for basic multitasking\nAdequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once."
+        },
+        {
+          "feature": "16GB solid state drive (SSD)\nWhile offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery."
+        },
+        {
+          "feature": "Intel&#174; HD Graphics\nOn-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming."
+        },
+        {
+          "feature": "Weighs 4.85 lbs. and measures 0.95\" thin\nThin and light design with DVD/CD drive omitted for improved portability. 4-cell lithium-polymer battery."
+        },
+        {
+          "feature": "Bluetooth interface syncs with compatible devices\nWirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories."
+        },
+        {
+          "feature": "1 USB 3.0 port maximizes the latest high-speed devices\nAlso includes 1 USB 2.0 port to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds)."
+        },
+        {
+          "feature": "HDMI output expands your viewing options\nConnect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture."
+        },
+        {
+          "feature": "Built-in media reader for simple photo transfer\nSupports SD memory card format."
+        },
+        {
+          "feature": "Next-Gen Intel&#174; Wireless-AC connectivity\nConnect to a Wireless-AC router for nearly 3x the speed, more capacity and wider coverage than Wireless-N. Backward-compatible with all other Wi-Fi networks and hotspots."
+        },
+        {
+          "feature": "Google Chrome OS\nAutomatically downloads and installs security and software updates, so you don't have to waste your time managing patches and waiting for restarts."
+        },
+        {
+          "feature": "Built-in webcam with microphone\nMakes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications."
+        },
+        {
+          "feature": "Additional ports\nAudio line out."
+        },
+        {
+          "feature": "Note: This Chromebook does not include a built-in DVD/CD drive."
+        },
+        {
+          "feature": "Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries."
+        }
+      ],
+      "format": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "height": "0.95 inches",
+      "includedItemList": [
+        {
+          "includedItem": "15.6\" Chromebook - Intel Celeron - 4GB Memory"
+        },
+        {
+          "includedItem": "4-cell lithium-polymer battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "longDescription": "Acer Chromebook: With built-in Wi-Fi and Chrome OS, you'll be able to stay connected and productive both at home and on the go. The 15.6\" display features ComfyView technology and LED backlighting to help you enjoy a clear view of media.  Learn more about Chromebooks &#8250;",
+      "longDescriptionHtml": "<p><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/com/pr/icn_ac_wifi.gif\" alt=\"AC Wi-Fi\" name=\"AC Wi-Fi\"></p><b>Acer Chromebook:</b> With built-in Wi-Fi and Chrome OS, you'll be able to stay connected and productive both at home and on the go. The 15.6\" display features ComfyView technology and LED backlighting to help you enjoy a clear view of media.<br><br><a href=\"/site/Computing-Promotions/Chromebooks/pcmcat287400050009.c?id=pcmcat287400050009\" name=\"&lid=PDP_Chromebooks_111388\">Learn more about Chromebooks ›</a><br><br><a href=\"/site/computing-promotions/laptop-buying-guide/pcmcat310900050007.c?id=pcmcat310900050007&type=category\" onclick=\"return popNew(this,960,800);\" title=\"Laptop Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Laptop_111335\"><img src=\"http://images.bestbuy.com/BestBuy_US/en_US/images/abn/2013/com/pm/buying_guides/laptop/images/BuyingGuides_laptop_pdp.jpg\" width=\"506 px\" height=\"90 px\" alt=\"Laptop Buying Guide\"></a><a href=\"http://images.bestbuy.com/BestBuy_US/en_US/images/global/on/VideoPopUp.html?widgetId=1020098358&accountId=1937&playerId=1696\" onclick=\"return popNew(this,660,380);\" title=\"Intel Wireless-AC\"><img src=\"http://images.bestbuy.com:80/BestBuy_US/en_US/images/global/buttons/btn-demo.gif\" alt=\"See Video\" name=\"&lid=ACWireless\"/></a>",
+      "manufacturer": "Acer",
+      "modelNumber": "C910C453",
+      "name": "Acer - 15.6\" Chromebook - Intel Celeron - 4GB Memory - 16GB Solid State Drive - Black",
+      "preowned": false,
+      "quantityLimit": null,
+      "relatedProducts": [
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 6497029
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 1249017
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 1475099
+        },
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 7851003
+        },
+        {
+          "sku": 4103018
+        },
+        {
+          "sku": 1114043
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 7457047
+        }
+      ],
+      "releaseDate": null,
+      "shortDescription": "Chrome OSTechnical details: Intel&#174; Celeron&#174; processor; 15.6\" display; 4GB memory; 16GB solid state driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "shortDescriptionHtml": "<li>Chrome OS</li><li>Technical details: Intel® Celeron® processor; 15.6\" display; 4GB memory; 16GB solid state drive</li><li>Special features: Bluetooth; HDMI output</li><li>Note: DVD/CD drive not included</li>",
+      "sku": 6314082,
+      "upc": "888863051021",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "weight": "4.85 pounds",
+      "width": "15.1 inches"
+    }
+  ]
+}

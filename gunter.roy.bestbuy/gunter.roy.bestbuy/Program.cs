@@ -16,7 +16,7 @@ namespace gunter.roy.bestbuy
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BestBuyAPI());
+            Application.Run(new BestBuyAPIApp());
         }
     }
 }
