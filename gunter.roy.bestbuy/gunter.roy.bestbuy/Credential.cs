@@ -10,7 +10,7 @@ namespace gunter.roy.bestbuy
         public string UserName { get; set; }
         public string Key { get; set; }
 
-        private const string PATH = "D:\\Keys\\keys.csv";
+        private const string PATH = "C:\\Keys\\keys.csv";
 
         public Credential(string name)
         {

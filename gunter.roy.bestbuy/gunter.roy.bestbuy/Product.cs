@@ -112,8 +112,7 @@ namespace gunter.roy.bestbuy
         {
             string queryString = string.Empty;
 
-            queryString = "products(" + CreateSearchTermString(searchTerms) + ")";
-
+            queryString = "products?name[$like]=*" + searchTerms + "*";
 
             return queryString;
         }
@@ -126,11 +125,11 @@ namespace gunter.roy.bestbuy
             {
                 if (searchTerms.IndexOf(term) == searchTerms.Count - 1)
                 {
-                    searchTermString = searchTermString + "search=" + term;
+                    searchTermString = searchTermString + "name[$like]=" + term;
                 }
                 else
                 {
-                    searchTermString = searchTermString + "search=" + term + "&";
+                    searchTermString = searchTermString + "name[$like]=" + term + "&";
                 }
             }
 
@@ -139,7 +138,7 @@ namespace gunter.roy.bestbuy
 
         private string CreateShowTermString(ArrayList fields)
         {
-            string showString = "? show =";
+            string showString = "? $select[]=";
 
             foreach (string field in fields)
             {
